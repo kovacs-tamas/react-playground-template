@@ -1,0 +1,15 @@
+{
+  "name": "javascript-playground-template",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-jshint": "^2.0.1",
+    "gulp-livereload": "^3.8.1",
+    "jshint": "^2.9.2",
+    "jshint-stylish": "^2.2.0",
+    "react": "^15.3.0",
+    "react-dom": "^15.3.0"
+  }
+}
